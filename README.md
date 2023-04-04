@@ -1,7 +1,7 @@
 # Bayesian_predictive_micro_ICPMF12
 
 ## Part.1 Modelling growth and inactivaion
-### Code: <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/Workshop_(inactivation).ipynb">Workshop_(inactivation).ipynb</a> / <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/Workshop_(growth).ipynb">Workshop_(growth).ipynb</a>
+### Code A: <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/Workshop_(inactivation).ipynb">Workshop_(inactivation).ipynb</a> / <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/Workshop_(growth).ipynb">Workshop_(growth).ipynb</a>
 
 Generalized linear Bayesian modeling of bacterial inactivation/growth.<br>
 It includes several sections, such as:<br>
