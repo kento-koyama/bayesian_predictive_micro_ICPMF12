@@ -6,7 +6,7 @@ If you want to launch new code in R, please open the link.<br>
 https://colab.research.google.com/notebook#create=true&language=r
 
 
-## Workshop_(inactivation).ipynb
+## Workshop_(inactivation).ipynb / Workshop_(growth).ipynb
 
 This code is a Python notebook for a workshop on Bayesian modeling of bacterial inactivation/growth. It includes several sections, such as:<br>
 
