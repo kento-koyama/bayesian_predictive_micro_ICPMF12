@@ -15,6 +15,6 @@ It includes several sections, such as:<br>
 
 
 # R code
+## Rstan_example.ipynb
 
-If you want to launch new code in R, please open the link.<br>
-https://colab.research.google.com/notebook#create=true&language=r
+## Rstan_example.ipynb
