@@ -8,10 +8,11 @@ https://colab.research.google.com/notebook#create=true&language=r
 
 ## Workshop_(inactivation).ipynb / Workshop_(growth).ipynb
 
-This code is a Python notebook for a workshop on Bayesian modeling of bacterial inactivation/growth. It includes several sections, such as:<br>
+This code is a Python notebook for a workshop on Bayesian modeling of bacterial inactivation/growth.<br>
+It includes several sections, such as:<br>
 
 <ul>
-<li>Loading required libraries (pystan, nest_asyncio, pandas, numpy, seaborn, matplotlib.pyplot, arviz)
+<li>Loading required libraries
 <li>Reading and preparing data from a CSV file
 <li>Constructing a model using Stan, which includes data, parameters, and a model section
 <li>Sampling the MCMC posterior distribution using NUTS algorithm
