@@ -3,7 +3,7 @@
 # Python code
 ## Workshop_(inactivation).ipynb / Workshop_(growth).ipynb
 
-This code is a Python notebook for a workshop on Bayesian modeling of bacterial inactivation/growth.<br>
+Generalized linear Bayesian modeling of bacterial inactivation/growth.<br>
 It includes several sections, such as:<br>
 
 <ul>
