@@ -1,7 +1,8 @@
 # Bayesian_predictive_micro_ICPMF12
 
-# Python code
+# Modelling growth and inactivaion
 ## Workshop_(inactivation).ipynb / Workshop_(growth).ipynb
+## Python code
 
 Generalized linear Bayesian modeling of bacterial inactivation/growth.<br>
 It includes several sections, such as:<br>
