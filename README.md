@@ -19,10 +19,9 @@ It includes several sections, such as:<br>
 <ul>
 <li>Example Rstan code
 </ul>
-### <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/Rstan_example.ipynb">Rstan_example.ipynb</a>
+<br>
 ### <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/New_R_Code.ipynb">New_R_Code.ipynb</a>
+<br>
 <ul>
 <li>Runching new R code
 </ul>
-
-https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/Rstan_example.ipynb
