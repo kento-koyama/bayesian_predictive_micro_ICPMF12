@@ -28,6 +28,6 @@ Reference: <a target="_blank" href="https://www.frontiersin.org/articles/10.3389
 
 <table class="tfo-notebook-buttons" align="left">
 <td>
-<a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/Rstan_example_from_google_to_git.ipynb"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+<a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td>
 </table>
