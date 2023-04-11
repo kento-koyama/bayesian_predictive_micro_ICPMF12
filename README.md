@@ -25,7 +25,7 @@ Reference: <a target="_blank" href="https://www.frontiersin.org/articles/10.3389
 ## memo
 1. ten people can use the same code at the same time<br>
 <br>
-2.Problem：From colab, one cannot back to the main github page. <br>Solving：Write the following statement in the fist line in each Colab page
+2.Problem：From colab, one cannot back to the main github page. <br>Solving：Write the following statement in the fist line in each Colab page <br>
 
 <table class="tfo-notebook-buttons" align="left">
 <td>
