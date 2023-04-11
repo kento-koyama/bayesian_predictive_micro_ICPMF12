@@ -20,3 +20,8 @@ Reference: <a target="_blank" href="https://www.frontiersin.org/articles/10.3389
 
 
 ### Code C: <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/New_R_Code.ipynb">New_R_Code.ipynb</a>
+
+
+## memo
+1.問題：
+1.解決：新しいタブでコードを開きたい。もしくは、colabからgitのhomeに戻れるようにリンクを貼る。
