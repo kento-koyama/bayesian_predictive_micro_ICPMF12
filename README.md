@@ -23,5 +23,10 @@ Reference: <a target="_blank" href="https://www.frontiersin.org/articles/10.3389
 
 
 ## memo
-1.問題：
-1.解決：新しいタブでコードを開きたい。もしくは、colabからgitのhomeに戻れるようにリンクを貼る。
+1.Problem：From colab, one cannot back to the main github page.
+1.Solve：Write the following statement in the fist line in each Colab page
+<table class="tfo-notebook-buttons" align="left">
+  <td>
+    <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+  </td>
+</table>
