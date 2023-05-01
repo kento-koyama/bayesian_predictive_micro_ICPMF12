@@ -23,8 +23,6 @@ Reference: <a target="_blank" href="https://www.frontiersin.org/articles/10.3389
 
 
 ## memo
-1. ten people can use the same code at the same time<br>
-<br>
 2.Problem：From colab, one cannot back to the main github page. <br>Solving：Write the following statement in the fist line in each Colab page <br>
 
 <table class="tfo-notebook-buttons" align="left">
@@ -32,3 +30,5 @@ Reference: <a target="_blank" href="https://www.frontiersin.org/articles/10.3389
 <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td>
 </table>
+<a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/" rel="noopener noreferrer"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+
