@@ -30,8 +30,3 @@ Reference: <a target="_blank" href="https://www.frontiersin.org/articles/10.3389
 <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td>
 </table>
-<a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/" rel="noopener noreferrer"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
-
-<a href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/" target="_blank" rel="noopener noreferrer"><img src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" alt="View source on GitHub" /></a>
-
-
