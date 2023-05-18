@@ -1,5 +1,8 @@
 # Bayesian_predictive_micro_ICPMF12
 
+## Part 1: Explanation fofr Bayesian modelling
+### <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/2305_draft_ICPMF12.pdf">Presentation Slide</a> 
+
 ## Part 1: Modelling growth and inactivaion of population behavior
 ### Code A: <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/Workshop_(inactivation).ipynb">Workshop_(inactivation).ipynb</a> / <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/Workshop_(growth).ipynb">Workshop_(growth).ipynb</a>
 
