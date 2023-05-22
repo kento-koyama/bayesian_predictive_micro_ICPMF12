@@ -1,9 +1,9 @@
 # Bayesian_predictive_micro_ICPMF12
 
-## Part 1: Explanation fofr Bayesian modelling
+## Part 1: Explanation for Bayesian modelling
 ### <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/2305_draft_ICPMF12.pdf">Presentation Slide</a> 
 
-## Part 1: Modelling growth and inactivaion of population behavior
+## Part 2: Modelling growth and inactivaion of population behavior
 
 
 Generalized linear Bayesian modeling of bacterial inactivation/growth.<br>
@@ -20,7 +20,7 @@ Tutrial : <a target="_blank" href="https://github.com/kento-koyama/bayesian_pred
 <br>
 Reference: <a target="_blank" href="https://www.frontiersin.org/articles/10.3389/fmicb.2021.674364/full">Hiura, S., Abe, H., Koyama, K. & Koseki, S. Bayesian generalized linear model for simulating bacterial inactivation/growth considering variability and uncertainty. Front. Microbiol. 12, 674364 (2021).</a>
 
-## Part 2: Modelling 
+## Extra: For New Modelling 
 ### Code B: <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/Rstan_example.ipynb">Rstan_example.ipynb</a>
 
 
