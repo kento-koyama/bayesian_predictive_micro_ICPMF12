@@ -5,6 +5,8 @@
 
 ## Part 2: Summary of software (BUGS/JAGS/Stan + Colab) 
 ### <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/Example_2/2305_draft_ICPMF12.pdf">Presentation Slide</a> 
+Tutrial : <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/tutorial.ipynb">tutorial.ipynb</a><br>
+<br>
 
 ## Part 3: Practical examples
 ### 1: Examples in Colab on missing data and censored data.
