@@ -12,7 +12,14 @@ Tutrial : <a target="_blank" href="https://github.com/kento-koyama/bayesian_pred
 ### 1: Examples in Colab on missing data and censored data.
 ### 2:  Examples in Colab on growth & inactivation 
 Generalized linear Bayesian modeling of bacterial inactivation/growth.<br>
-
+It includes several sections, such as:<br>
+<ul>
+<li>Constructing a model using Stan, which includes data, parameters, and a model section
+<li>Sampling the MCMC posterior distribution using NUTS algorithm
+<li>Fitting the data using frequentist method and plotting the results
+<li>Predicting the cell count at a given time using the Bayesian model and plotting the results
+<li>Python code
+</ul>
 Tutrial : <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/Example_2/2-1 Workshop_(inactivation).ipynb">2-1 Workshop_(inactivation).ipynb</a><br>
 Tutrial : <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/Example_2/2-2 Workshop_(growth).ipynb">2-2 Workshop_(growth).ipynb</a><br>
 <br>
