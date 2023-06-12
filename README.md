@@ -1,6 +1,7 @@
 # Bayesian_predictive_micro_ICPMF12
 
-<a target="_blank" href="https://app.klaxoon.com/join/7DUYWBN">Kalaxoon link</a><br>
+Q&A link during workshop:   
+<a target="_blank" href="https://app.klaxoon.com/join/SKRBXHD ">Please ask us from here!</a><br>
 
 ## Part 1: Introduction
 ### <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/Example_2/2305_draft_ICPMF12.pdf">Presentation Slide</a> 
@@ -29,6 +30,10 @@ Reference: <a target="_blank" href="https://www.frontiersin.org/articles/10.3389
 Tutorial: <a target="_blank" href="https://colab.research.google.com/drive/1vW6aZBYxgsJ4kqQe4GYhA5Ajn7VPjTHA?usp=sharing">dose-response in RJAGS_examp.ipynb</a><br>
 
 ### Extra: Examples censoring/Dose-Response models
+
+
+   
+<a target="_blank" href="https://app.klaxoon.com/join/7DUYWBN">Please feedback from here!</a><br>
 
 ### memo
 2.Problem：From colab, one cannot back to the main github page. <br>Solving：Write the following statement in the fist line in each Colab page <br>
