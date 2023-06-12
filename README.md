@@ -35,8 +35,8 @@ Reference: <a target="_blank" href="https://www.frontiersin.org/articles/10.3389
 Tutorial: <a target="_blank" href="https://colab.research.google.com/drive/1vW6aZBYxgsJ4kqQe4GYhA5Ajn7VPjTHA?usp=sharing">dose-response in RJAGS_examp.ipynb</a><br>
 
 ### Extra: Examples censoring/Dose-Response models
-
-
+Extra example: <a target="_blank" href="https://colab.research.google.com/drive/1NTgyPjV30yW-H8W49swWJZPLuo8YNL8D?usp=sharing">censored_rstan_brms.ipynb</a><br>
+   
    
 <a target="_blank" href="https://app.klaxoon.com/join/7DUYWBN">Please feedback from here!</a><br>
 
