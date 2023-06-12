@@ -25,6 +25,9 @@ Reference: <a target="_blank" href="https://www.frontiersin.org/articles/10.3389
 
 ### 3: Examples on Dose-Response models
 
+
+### Extra: Examples censoring/Dose-Response models
+
 ### memo
 2.Problem：From colab, one cannot back to the main github page. <br>Solving：Write the following statement in the fist line in each Colab page <br>
 
