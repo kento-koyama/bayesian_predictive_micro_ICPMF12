@@ -14,7 +14,6 @@ Slide: <a target="_blank" href="https://github.com/kento-koyama/bayesian_predict
 ## Part 3: Practical examples
 ### 1: Examples in Colab on missing data and censored data.
 Slide: <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/Example2/concept_of_stochastic_model.pdf">concept_of_stochastic_model.pdf</a><br>
-
 Tutrial : <a target="_blank" href="https://github.com/kento-koyama/bayesian_predictive_micro_ICPMF12/blob/main/Example_1/Kopio_New_ROpenBUGS_Code.ipynb">1-1 Workshop_Jukka.ipynb</a><br>
 
 
